@@ -30,5 +30,5 @@ The exercises in this chapter are exploratory. Starting in [Chapter 2](../chapte
 
 &nbsp; | &nbsp; | &nbsp; | &nbsp;
 ----|----|----|----
-&nbsp;| &nbsp; | &nbsp; | &nbsp;[Next &#10095;](../pcc-chapter-02)
+&nbsp;| &nbsp; | &nbsp; | &nbsp;[Next &#10095;](../../../pcc-chapter-02)
 
