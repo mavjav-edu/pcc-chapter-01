@@ -10,7 +10,7 @@ the structure of your code.
 ## TRY IT YOURSELF #1
 
 The exercises in this chapter are exploratory in nature. Starting in
-../../../pcc_2e/tree/master/chapter_02, the challenges you&rsquo;ll solve will be based
+[Chapter 2](../../../pcc_2e/tree/master/chapter_02), the challenges you&rsquo;ll solve will be based
 on what you&rsquo;ve learned.
 
 <span id="ch1exe1"></span>**1-1. python.org:** Explore the Python home
