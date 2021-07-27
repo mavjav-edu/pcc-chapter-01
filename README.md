@@ -1,6 +1,9 @@
 # Getting Started
 
 In this chapter you’ll run your first Python program, *hello_world.py*.
+
+<img src="https://media.giphy.com/media/MeJgB3yMMwIaHmKD4z/giphy.gif" width="220vw"/>
+
 First, you’ll need to check whether Python is installed on your
 computer; if it isn’t, you’ll install it. You’ll also install a text
 editor to work with your Python programs. Text editors recognize Python
@@ -17,6 +20,8 @@ on what you&rsquo;ve learned.
 page (*<http://python.org/>*) to find topics that interest you. As you
 become familiar with Python, different parts of the site will be more
 useful to you.
+
+<img src="https://media.giphy.com/media/gh0RRgkTXedvF0pDc0/giphy.gif" width="220vw" />
 
 <span id="ch1exe2"></span>**1-2. Hello World Typos:** Open the
 *hello_world.py* file you just created. Make a typo somewhere in the
