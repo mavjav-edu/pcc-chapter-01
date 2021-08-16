@@ -10,7 +10,7 @@ editor to work with your Python programs. Text editors recognize Python
 code and highlight sections as you write, making it easy to understand
 the structure of your code.
 
-## TRY IT YOURSELF #1
+## TRY IT YOURSELF Ⓐ
 
 The exercises in this chapter are exploratory in nature. Starting in
 [Chapter 2](../../../pcc_2e/tree/master/chapter_02), the challenges you&rsquo;ll solve will be based
